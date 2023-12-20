@@ -35,6 +35,9 @@ public class Ejemplo022 {
                 System.out.printf("Ingrese numero para posicion [%d] [%d]\n",
                         f, c);
                 valor = entrada.nextInt();
+                if (valor % 2 == 0 && valor >=10) {
+                    valor = 0;
+                }
                 arreglo1[f][c] = valor;
                 
             }

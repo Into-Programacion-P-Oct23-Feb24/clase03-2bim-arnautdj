@@ -8,7 +8,7 @@ package paquete05;
  *
  * @author LAB.ELECT
  */
-public class Ejemplo01 {
+public class Ejemplo001 {
     
      public static void main(String[] args) {
          
